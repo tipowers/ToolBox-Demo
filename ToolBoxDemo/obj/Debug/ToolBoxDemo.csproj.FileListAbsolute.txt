@@ -1,0 +1,7 @@
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\GoldBadge\ToolBoxDemo\ToolBoxDemo\bin\Debug\ToolBoxDemo.exe.config
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\GoldBadge\ToolBoxDemo\ToolBoxDemo\bin\Debug\ToolBoxDemo.exe
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\GoldBadge\ToolBoxDemo\ToolBoxDemo\bin\Debug\ToolBoxDemo.pdb
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\GoldBadge\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.csprojAssemblyReference.cache
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\GoldBadge\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\GoldBadge\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.exe
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\GoldBadge\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.pdb
